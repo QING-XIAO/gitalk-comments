@@ -1,2 +1,3 @@
 # gitalk-comments
-gitalk存放评论仓库
+
+> gitalk用来存放评论区的仓库.
